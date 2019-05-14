@@ -1,3 +1,18 @@
+% % % % % % % % % % %
+%
+% This code show the evaluation curves. At line 19 is possible specify
+% methods of interest.
+%
+% This code is provided as evaluation of:
+% SHREC 2019: Matching Humans with Different Connectivity
+% S. Melzi, R. Marin, E. Rodolà, U. Castellani, J. Ren, A. Poulenard, P.
+% Wonka, M. Ovjanikov
+% 
+% For any doubt or comment, please contact me: 
+% riccardo.marin_01@univr.it
+% 
+% % % % % % % % % % %
+
 clear all;
 addpath('.\utils');
 
